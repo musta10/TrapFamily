@@ -12,6 +12,7 @@
     text-align: center;
     color: rgb(121, 110, 110);
     margin-top: 5px;
+    height: 24px;
 }
 .menu a{
     background: url("../assets/logo/corona42.png") no-repeat left top;
