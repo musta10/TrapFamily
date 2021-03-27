@@ -16,7 +16,6 @@
     width: 100%;
 }
 .lista-menu li {
-    box-shadow: 8px 0 rgba(255, 255, 255, .2) inset; 
     padding-left: 1em;
     margin-bottom: 20px;
     /* outline: 1px solid green; */
