@@ -1,6 +1,7 @@
 {
   "name": "musicatrap",
   "version": "0.1.0",
+  "homepage": "http://musta10.github.io/TrapFamily",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
@@ -25,6 +26,8 @@
     "workbox-streams": "^5.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
