@@ -1,6 +1,6 @@
 
 .menu{
-    background-color: white;
+    background-color: #fff;
     list-style: none;
     line-height: 42px;
     margin: auto;
@@ -24,10 +24,9 @@
    
 }
 .menu li {
-    margin-top: 15px;
-    box-shadow: 8px 0 rgba(255, 255, 255, .2) inset; 
+    margin-top: 15px; 
     margin-bottom: 20px;
     padding-left: 1.4em;
     border: 1px solid #FFD628;
-    border-radius: 5px;
+    border-radius: 20px;
 }

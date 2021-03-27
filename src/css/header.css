@@ -16,8 +16,8 @@ box-sizing: border-box;
     min-height: 10vh;
     width: 100%;
     align-items: center;
-    /* border-bottom: 1px solid rgb(240, 240, 240);
-    margin-bottom: 20px; */
+    border-bottom: 1px solid rgb(240, 240, 240);
+    margin-bottom: 10px;
 }
 #logo img {
     animation: girar infinite 30s linear;
