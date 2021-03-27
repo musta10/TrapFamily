@@ -11,7 +11,7 @@ class Trap extends Component {
     return (
       <>
         <h3 className="texto-titulo">Quien es el Rey del Trap?</h3>
-        <p className="texto-titulo">21 Trap</p>
+        <p className="texto-titulo">21 artistas cantan Trap</p>
         <ul className="menu">
           {this.state.artistas.map((elem, i ) => {
             return (
