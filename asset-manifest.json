@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/TrapFamily/static/css/main.db3a7c1d.chunk.css",
+    "main.js": "/TrapFamily/static/js/main.cc5709ef.chunk.js",
+    "main.js.map": "/TrapFamily/static/js/main.cc5709ef.chunk.js.map",
+    "runtime-main.js": "/TrapFamily/static/js/runtime-main.6a5be4c9.js",
+    "runtime-main.js.map": "/TrapFamily/static/js/runtime-main.6a5be4c9.js.map",
+    "static/js/2.0b3f28d6.chunk.js": "/TrapFamily/static/js/2.0b3f28d6.chunk.js",
+    "static/js/2.0b3f28d6.chunk.js.map": "/TrapFamily/static/js/2.0b3f28d6.chunk.js.map",
+    "static/js/3.80b91072.chunk.js": "/TrapFamily/static/js/3.80b91072.chunk.js",
+    "static/js/3.80b91072.chunk.js.map": "/TrapFamily/static/js/3.80b91072.chunk.js.map",
+    "index.html": "/TrapFamily/index.html",
+    "service-worker.js": "/TrapFamily/service-worker.js",
+    "service-worker.js.map": "/TrapFamily/service-worker.js.map",
+    "static/css/main.db3a7c1d.chunk.css.map": "/TrapFamily/static/css/main.db3a7c1d.chunk.css.map",
+    "static/js/2.0b3f28d6.chunk.js.LICENSE.txt": "/TrapFamily/static/js/2.0b3f28d6.chunk.js.LICENSE.txt",
+    "static/media/palmeracirculo.ee63e550.png": "/TrapFamily/static/media/palmeracirculo.ee63e550.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a5be4c9.js",
+    "static/js/2.0b3f28d6.chunk.js",
+    "static/css/main.db3a7c1d.chunk.css",
+    "static/js/main.cc5709ef.chunk.js"
+  ]
+}
