@@ -1,0 +1,39 @@
+.video-top{
+    width: 500px;
+    height: 310px;
+    margin:  2em auto;
+
+}
+iframe{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.tituloTop{
+    margin: 1em auto;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.texto-top{
+    color: #F9CB0C;
+}
+
+@media screen and (max-width: 960px) {
+    .video-top{
+        width: 90%;
+        height: 310px;
+        margin:  2em auto;
+    
+    }
+    .tituloTop{
+        margin: 1em auto;
+        width: 300px;
+        /* overflow-x: hidden; */
+        display: flex;
+        align-items: center;
+        text-align: center;
+        justify-content: space-evenly;
+    }
+}
